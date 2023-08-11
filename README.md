@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Codewars](https://github.r2v.ch/codewars?user=lemar.jul&name=false&top_languages=true&stroke=%23b362ff&theme=default&hide_clan=true)
+
 <!--
 **lemarJul/lemarJul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
