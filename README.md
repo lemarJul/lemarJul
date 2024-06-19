@@ -23,7 +23,7 @@ Always seeking opportunities to expand my knowledge and skills, I am open to any
 Please feel free to contact me for any questions or feedback.
 
 
-![Codewars](https://github.r2v.ch/codewars?user=lemar.jul&name=false&top_languages=true&stroke=%23b362ff&theme=default&hide_clan=true)
+[![Codewars](https://github.r2v.ch/codewars?user=lemar.jul&name=false&top_languages=true&stroke=%23b362ff&theme=default&hide_clan=true)](https://www.codewars.com/users/lemar.jul)
 
 <!-- 
 ASCII from https://www.asciiart.eu/text-to-ascii-art
