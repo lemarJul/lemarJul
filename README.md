@@ -32,4 +32,17 @@ subtitle font calvin s
  -->
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 16 March 2025 - To: 23 March 2025
+
+Total Time: 16 hrs 31 mins
+
+TypeScript   14 hrs 10 mins  █████████████████████▒░░░   85.80 %
+Other        59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Markdown     50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+```
+
 <!--END_SECTION:waka-->
