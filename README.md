@@ -33,6 +33,7 @@ Please feel free to contact me for any questions or feedback.
 
 
 <!--START_SECTION:waka-->
+
 ```txt
 From: 16 March 2025 - To: 23 March 2025
 
@@ -44,6 +45,7 @@ Markdown     50 mins         █▒░░░░░░░░░░░░░░░
 Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
+
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/35090e94-ba54-40d4-90ae-2d10e1049121.svg)](https://wakatime.com/@35090e94-ba54-40d4-90ae-2d10e1049121) since August 11 2023.
