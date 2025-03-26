@@ -35,15 +35,15 @@ Please feel free to contact me for any questions or feedback.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2025 - To: 24 March 2025
+From: 18 March 2025 - To: 25 March 2025
 
-Total Time: 14 hrs 31 mins
+Total Time: 9 hrs 33 mins
 
-TypeScript   12 hrs 19 mins  █████████████████████▒░░░   84.86 %
-Other        59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
-Markdown     50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TypeScript   7 hrs 44 mins   ████████████████████▒░░░░   81.04 %
+Other        58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Markdown     50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
