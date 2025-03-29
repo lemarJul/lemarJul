@@ -35,13 +35,13 @@ Please feel free to contact me for any questions or feedback.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2025 - To: 27 March 2025
+From: 21 March 2025 - To: 28 March 2025
 
-Total Time: 11 mins
+Total Time: 9 mins
 
-TypeScript   9 mins          ███████████████████░░░░░░   75.54 %
-Markdown     2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TypeScript   6 mins          █████████████████▒░░░░░░░   68.69 %
+Markdown     2 mins          ███████▓░░░░░░░░░░░░░░░░░   31.14 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
