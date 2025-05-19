@@ -35,15 +35,15 @@ Please feel free to contact me for any questions or feedback.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2025 - To: 11 May 2025
+From: 10 May 2025 - To: 17 May 2025
 
-Total Time: 23 hrs 19 mins
+Total Time: 10 hrs 32 mins
 
-PHP             21 hrs 32 mins  ███████████████████████░░   92.37 %
-JSON            24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Markdown        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Other           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-INI             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+PHP             9 hrs 1 min     █████████████████████▒░░░   85.64 %
+JSON            58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+CSS             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+HTML            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Bash            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
