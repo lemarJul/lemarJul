@@ -35,11 +35,15 @@ Please feel free to contact me for any questions or feedback.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2025 - To: 24 May 2025
+From: 24 May 2025 - To: 31 May 2025
 
-Total Time: 0 secs
+Total Time: 12 hrs 56 mins
 
-No activity tracked
+PHP          6 hrs 7 mins    ████████████░░░░░░░░░░░░░   47.34 %
+TypeScript   6 hrs 3 mins    ███████████▓░░░░░░░░░░░░░   46.75 %
+JavaScript   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
