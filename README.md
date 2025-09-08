@@ -35,15 +35,15 @@ Please feel free to contact me for any questions or feedback.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2025 - To: 31 August 2025
+From: 30 August 2025 - To: 06 September 2025
 
-Total Time: 13 hrs 16 mins
+Total Time: 29 hrs 32 mins
 
-TypeScript   10 hrs 16 mins  ███████████████████▒░░░░░   77.38 %
-CSS          1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-JSON         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-HTML         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Python       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+TypeScript   20 hrs 28 mins  █████████████████▒░░░░░░░   69.28 %
+YAML         2 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+JSON         1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Markdown     1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+CSS          1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->
