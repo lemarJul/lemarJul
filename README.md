@@ -35,15 +35,15 @@ Please feel free to contact me for any questions or feedback.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2025 - To: 06 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
-Total Time: 29 hrs 32 mins
+Total Time: 27 hrs 57 mins
 
-TypeScript   20 hrs 28 mins  █████████████████▒░░░░░░░   69.28 %
-YAML         2 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-JSON         1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-Markdown     1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-CSS          1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+TypeScript    27 hrs 42 mins  ████████████████████████▓   99.11 %
+Git Config    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+YAML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+JSON          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Image (svg)   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
