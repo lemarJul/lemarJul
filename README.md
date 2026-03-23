@@ -37,9 +37,13 @@ Please feel free to contact me for any questions or feedback.
 ```txt
 From: 14 March 2026 - To: 21 March 2026
 
-Total Time: 0 secs
+Total Time: 29 hrs 52 mins
 
-No activity tracked
+Markdown     13 hrs 13 mins        ███████████░░░░░░░░░░░░░░   44.27 %
+TypeScript   9 hrs 47 mins         ████████▒░░░░░░░░░░░░░░░░   32.79 %
+HTML         2 hrs 18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Bash         1 hr 9 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Python       55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
