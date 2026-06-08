@@ -35,15 +35,15 @@ Please feel free to contact me for any questions or feedback.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2026 - To: 30 May 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Total Time: 32 hrs 56 mins
+Total Time: 50 hrs 56 mins
 
-Markdown             15 hrs 18 mins        ███████████▓░░░░░░░░░░░░░   46.46 %
-Python               6 hrs 54 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
-TypeScript           3 hrs 38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-JSON                 2 hrs 7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Other                1 hr 13 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Markdown      23 hrs 10 mins        ███████████▒░░░░░░░░░░░░░   45.49 %
+Python        7 hrs 19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+TypeScript    5 hrs 2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+Other         4 hrs 2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Bash          3 hrs 35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
 ```
 
 <!--END_SECTION:waka-->
